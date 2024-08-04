@@ -1,3 +1,5 @@
+Create database 
+
 CREATE DATABASE xss_lab;
 USE xss_lab;
 
